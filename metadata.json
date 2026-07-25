@@ -1,0 +1,6 @@
+{
+  "name": "Saleem Daal Factory – Cheque Management System",
+  "description": "Enterprise offline Cheque Management System for Saleem Daal Factory with analytics, tracking, Excel import/export, PDF reporting, and backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
